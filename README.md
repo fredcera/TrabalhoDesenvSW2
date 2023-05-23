@@ -2,6 +2,7 @@
 Trabalho em Grupo para Desenv. de Software 2
 
 Organização das pastas:
+
 Arquivos fase 1: Arquivos da engenharia de requisitos do sistema.
 Arquivos fase 2: Prototipação e modelagem do sistema.
 
