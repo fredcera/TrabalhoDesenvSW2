@@ -1,0 +1,6 @@
+RelatorioFinancerio
+RelatorioFinanceiroCustomizado
+RelatorioIndividual
+Medida
+Valor
+Fenomeno
